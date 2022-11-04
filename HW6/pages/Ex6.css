@@ -1,0 +1,62 @@
+* {
+  font-family: sans-serif;
+}
+.contianer {
+  width: 800px;
+  margin: 100px auto;
+  background-color: rgba(109, 199, 213, 0.5);
+  padding: 50px;
+}
+form input {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  height: 50px;
+  padding: 5px;
+  background-color: rgba(245, 244, 244, 0.96);
+  border: none;
+}
+
+#radio {
+  display: flex;
+  width: 250px;
+}
+
+#lbl-gender {
+  display: block;
+  margin: 20px 0px 10px 0px;
+}
+#txt-area {
+  padding: 15px;
+  background-color: rgba(245, 244, 244, 0.9);
+  border: none;
+}
+/* #Male #Fmale #Other{
+  font-size: 1px;
+} */
+#btn-register {
+  background-color: rgba(28, 197, 28, 0.8);
+  color: white;
+  border: none;
+}
+
+.lbl-style {
+  font-weight: bolder;
+}
+
+.header {
+  width: 100%;
+}
+#caption {
+  position: relative;
+  left: 120px;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+#seprator {
+  height: 5px;
+  background-color: rgba(245, 244, 244, 0.9);
+
+  border: none;
+}
